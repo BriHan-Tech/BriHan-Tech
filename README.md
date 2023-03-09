@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="media/programming.gif" width="100%">
+
 
 # Hello There, I'm Brian! 👋
 
@@ -20,7 +21,6 @@
 
 - 🗻 Getting into Competitive Programming
 
-<br>
 
 ## Let's Connect! 😊
 Here are my links:
@@ -37,7 +37,6 @@ OR hit 👇 in your console or terminal to connect with me.
 npx brihan
 ```
 
-<br>
 
 ## Skills! 💥
 **Languages**:
@@ -83,10 +82,9 @@ npx brihan
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<br>
 
 ## Stats! 🔩
 <div style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriHan-Tech&theme=blue-green">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=BriHan-Tech&theme=blue-green">
+    <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriHan-Tech&theme=blue-green">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=BriHan-Tech&theme=blue-green">
 </div>
