@@ -85,6 +85,6 @@ npx brihan
 
 ## Stats! 🔩
 <div style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
-    <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriHan-Tech&theme=blue-green">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=BriHan-Tech&theme=blue-green">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriHan-Tech&theme=blue-green">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=BriHan-Tech&theme=blue-green">
 </div>
