@@ -11,9 +11,7 @@
 
 - 🏫 Studying CS at the University of British Columbia
 
-- 📜 Working as a Contractee Full-Stack Developer with Pouria Assadipour
-
-- 📝 Working as a Back-End Developer for XdHacks Mini
+- 📜 Working as an Intern at PicCollage
 
 - 🤼🏽‍♂️ Love Wrestling, boxing and kickboxing
 
@@ -82,9 +80,9 @@ npx brihan
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-
+<!--
 ## Stats! 🔩
-<div style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
+<div-- style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriHan-Tech&theme=blue-green">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=BriHan-Tech&theme=blue-green">
-</div>
+</div-->
